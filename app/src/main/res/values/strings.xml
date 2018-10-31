@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ECC Go!</string>
+    <string name="title_activity_sem_rede">SemRedeActivity</string>
+    <string name="title_activity_sem_net">Sem Conexão</string>
+</resources>

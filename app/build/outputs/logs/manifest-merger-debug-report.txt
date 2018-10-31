@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ee718cf838dee16e864c9938f854e089/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bd6443be3277e04d73a8b1324792ed1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jonathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/77d60ec82fb07897bc1184b5135e28bb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6794e647f94f45381841015b60018603/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/45cbcd2f0c2ed5485cdbffd41b99daf6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9f29ba7688b1e27079e5f5263c95bb67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a848d568134376dabb921f3ca157ad14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/81a538d7e6b03c45ba10ca62ddbec6b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d6414940ef520969560738244604c1ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/38cc6ef49c98283ac88c8030aacc5ecd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/90fbaf5864e14ef51ba5fbfb99890e6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0c43989c603355938f0fe9ea35228bf0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c9fc9061a57c040f42e80439a7c243ac/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2ed7067906de82cfc4055147e1754a0d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c5da8e192721d1a34f8169b07a9c8c1b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f2a8d86befba5d899972d90e41d16748/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b12c86ec6179fe9dccfc92ecdf86e865/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:3:5-60
+		INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jonathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/77d60ec82fb07897bc1184b5135e28bb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jonathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/77d60ec82fb07897bc1184b5135e28bb/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:15:9-52
+activity#eccgo.jonathansilvaviana.com.br.myapplication.MainActivity
+ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:22:27-74
+activity#eccgo.jonathansilvaviana.com.br.myapplication.SemNetActivity
+ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml:25:19-49
+uses-sdk
+INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ee718cf838dee16e864c9938f854e089/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ee718cf838dee16e864c9938f854e089/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bd6443be3277e04d73a8b1324792ed1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bd6443be3277e04d73a8b1324792ed1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jonathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/77d60ec82fb07897bc1184b5135e28bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jonathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/77d60ec82fb07897bc1184b5135e28bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6794e647f94f45381841015b60018603/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6794e647f94f45381841015b60018603/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/45cbcd2f0c2ed5485cdbffd41b99daf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/45cbcd2f0c2ed5485cdbffd41b99daf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9f29ba7688b1e27079e5f5263c95bb67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9f29ba7688b1e27079e5f5263c95bb67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a848d568134376dabb921f3ca157ad14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a848d568134376dabb921f3ca157ad14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/81a538d7e6b03c45ba10ca62ddbec6b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/81a538d7e6b03c45ba10ca62ddbec6b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d6414940ef520969560738244604c1ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d6414940ef520969560738244604c1ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/38cc6ef49c98283ac88c8030aacc5ecd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/38cc6ef49c98283ac88c8030aacc5ecd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/90fbaf5864e14ef51ba5fbfb99890e6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/90fbaf5864e14ef51ba5fbfb99890e6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0c43989c603355938f0fe9ea35228bf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0c43989c603355938f0fe9ea35228bf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c9fc9061a57c040f42e80439a7c243ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c9fc9061a57c040f42e80439a7c243ac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2ed7067906de82cfc4055147e1754a0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2ed7067906de82cfc4055147e1754a0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c5da8e192721d1a34f8169b07a9c8c1b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c5da8e192721d1a34f8169b07a9c8c1b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f2a8d86befba5d899972d90e41d16748/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f2a8d86befba5d899972d90e41d16748/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b12c86ec6179fe9dccfc92ecdf86e865/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b12c86ec6179fe9dccfc92ecdf86e865/AndroidManifest.xml:20:5-44
+INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+		ADDED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jonathan/AndroidStudioProjects/eccgo/app/src/main/AndroidManifest.xml
